@@ -1,10 +1,10 @@
-mi_variable = 12
+mi_variable = 4
 print(mi_variable)
 
-mi_variable2 = 'dario'
+mi_variable2 = 'Naza'
 print(mi_variable2)
 
-mi_complejo = 5 + 7j
+mi_complejo = 5 + 7
 print(mi_complejo)
 
 
